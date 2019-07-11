@@ -1,0 +1,73 @@
+,circuit_id,circuit_ref,name,location,country,lat,lng,alt,url
+0,2,sepang,Sepang International Circuit,Kuala Lumpur,Malaysia,2.76083,101.738,\N,http://en.wikipedia.org/wiki/Sepang_International_Circuit
+1,3,bahrain,Bahrain International Circuit,Sakhir,Bahrain,26.0325,50.5106,\N,http://en.wikipedia.org/wiki/Bahrain_International_Circuit
+2,4,catalunya,Circuit de Barcelona-Catalunya,Montmeló,Spain,41.57,2.26111,\N,http://en.wikipedia.org/wiki/Circuit_de_Barcelona-Catalunya
+3,5,istanbul,Istanbul Park,Istanbul,Turkey,40.9517,29.405,\N,http://en.wikipedia.org/wiki/Istanbul_Park
+4,6,monaco,Circuit de Monaco,Monte-Carlo,Monaco,43.7347,7.420560000000001,\N,http://en.wikipedia.org/wiki/Circuit_de_Monaco
+5,7,villeneuve,Circuit Gilles Villeneuve,Montreal,Canada,45.5,-73.5228,\N,http://en.wikipedia.org/wiki/Circuit_Gilles_Villeneuve
+6,8,magny_cours,Circuit de Nevers Magny-Cours,Magny Cours,France,46.8642,3.16361,\N,http://en.wikipedia.org/wiki/Circuit_de_Nevers_Magny-Cours
+7,9,silverstone,Silverstone Circuit,Silverstone,UK,52.0786,-1.01694,\N,http://en.wikipedia.org/wiki/Silverstone_Circuit
+8,10,hockenheimring,Hockenheimring,Hockenheim,Germany,49.3278,8.56583,\N,http://en.wikipedia.org/wiki/Hockenheimring
+9,11,hungaroring,Hungaroring,Budapest,Hungary,47.5789,19.2486,\N,http://en.wikipedia.org/wiki/Hungaroring
+10,12,valencia,Valencia Street Circuit,Valencia,Spain,39.4589,-0.331667,\N,http://en.wikipedia.org/wiki/Valencia_Street_Circuit
+11,13,spa,Circuit de Spa-Francorchamps,Spa,Belgium,50.4372,5.97139,\N,http://en.wikipedia.org/wiki/Circuit_de_Spa-Francorchamps
+12,14,monza,Autodromo Nazionale di Monza,Monza,Italy,45.6156,9.28111,\N,http://en.wikipedia.org/wiki/Autodromo_Nazionale_Monza
+13,15,marina_bay,Marina Bay Street Circuit,Marina Bay,Singapore,1.2914,103.86399999999999,\N,http://en.wikipedia.org/wiki/Marina_Bay_Street_Circuit
+14,16,fuji,Fuji Speedway,Oyama,Japan,35.3717,138.92700000000002,\N,http://en.wikipedia.org/wiki/Fuji_Speedway
+15,17,shanghai,Shanghai International Circuit,Shanghai,China,31.3389,121.22,\N,http://en.wikipedia.org/wiki/Shanghai_International_Circuit
+16,18,interlagos,Autódromo José Carlos Pace,São Paulo,Brazil,-23.7036,-46.6997,\N,http://en.wikipedia.org/wiki/Aut%C3%B3dromo_Jos%C3%A9_Carlos_Pace
+17,19,indianapolis,Indianapolis Motor Speedway,Indianapolis,USA,39.795,-86.2347,\N,http://en.wikipedia.org/wiki/Indianapolis_Motor_Speedway
+18,20,nurburgring,Nürburgring,Nürburg,Germany,50.3356,6.9475,\N,http://en.wikipedia.org/wiki/N%C3%BCrburgring
+19,21,imola,Autodromo Enzo e Dino Ferrari,Imola,Italy,44.3439,11.7167,\N,http://en.wikipedia.org/wiki/Autodromo_Enzo_e_Dino_Ferrari
+20,22,suzuka,Suzuka Circuit,Suzuka,Japan,34.8431,136.541,\N,http://en.wikipedia.org/wiki/Suzuka_Circuit
+21,23,osterreichring,A1-Ring,Spielburg,Austria,47.2197,14.7647,\N,http://en.wikipedia.org/wiki/A1-Ring
+22,24,yas_marina,Yas Marina Circuit,Abu Dhabi,UAE,24.4672,54.6031,\N,http://en.wikipedia.org/wiki/Yas_Marina_Circuit
+23,25,galvez,Autódromo Juan y Oscar Gálvez,Buenos Aires,Argentina,-34.6943,-58.4593,\N,http://en.wikipedia.org/wiki/Aut%C3%B3dromo_Oscar_Alfredo_G%C3%A1lvez
+24,26,jerez,Circuito de Jerez,Jerez de la Frontera,Spain,36.7083,-6.03417,\N,http://en.wikipedia.org/wiki/Circuito_Permanente_de_Jerez
+25,27,estoril,Autódromo do Estoril,Estoril,Portugal,38.7506,-9.394169999999999,\N,http://en.wikipedia.org/wiki/Aut%C3%B3dromo_do_Estoril
+26,28,okayama,Okayama International Circuit,Okayama,Japan,34.915,134.221,\N,http://en.wikipedia.org/wiki/TI_Circuit
+27,29,adelaide,Adelaide Street Circuit,Adelaide,Australia,-34.9272,138.61700000000002,\N,http://en.wikipedia.org/wiki/Adelaide_Street_Circuit
+28,30,kyalami,Kyalami,Midrand,South Africa,-25.9894,28.0767,\N,http://en.wikipedia.org/wiki/Kyalami
+29,31,donington,Donington Park,Castle Donington,UK,52.8306,-1.3752799999999998,\N,http://en.wikipedia.org/wiki/Donington_Park
+30,32,rodriguez,Autódromo Hermanos Rodríguez,Mexico City,Mexico,19.4042,-99.0907,\N,http://en.wikipedia.org/wiki/Aut%C3%B3dromo_Hermanos_Rodr%C3%ADguez
+31,33,phoenix,Phoenix street circuit,Phoenix,USA,33.4479,-112.075,\N,http://en.wikipedia.org/wiki/Phoenix_street_circuit
+32,34,ricard,Circuit Paul Ricard,Le Castellet,France,43.2506,5.79167,\N,http://en.wikipedia.org/wiki/Paul_Ricard_Circuit
+33,35,yeongam,Korean International Circuit,Yeongam County,Korea,34.7333,126.417,\N,http://en.wikipedia.org/wiki/Korean_International_Circuit
+34,36,jacarepagua,Autódromo Internacional Nelson Piquet,Rio de Janeiro,Brazil,-22.9756,-43.395,\N,http://en.wikipedia.org/wiki/Aut%C3%B3dromo_Internacional_Nelson_Piquet
+35,37,detroit,Detroit Street Circuit,Detroit,USA,42.3298,-83.0401,\N,http://en.wikipedia.org/wiki/Detroit_street_circuit
+36,38,brands_hatch,Brands Hatch,Kent,UK,51.3569,0.263056,\N,http://en.wikipedia.org/wiki/Brands_Hatch
+37,39,zandvoort,Circuit Park Zandvoort,Zandvoort,Netherlands,52.3888,4.54092,\N,http://en.wikipedia.org/wiki/Circuit_Zandvoort
+38,40,zolder,Zolder,Heusden-Zolder,Belgium,50.9894,5.25694,\N,http://en.wikipedia.org/wiki/Zolder
+39,41,dijon,Dijon-Prenois,Dijon,France,47.3625,4.89913,\N,http://en.wikipedia.org/wiki/Dijon-Prenois
+40,42,dallas,Fair Park,Dallas,USA,32.7774,-96.7587,\N,http://en.wikipedia.org/wiki/Fair_Park
+41,43,long_beach,Long Beach,California,USA,33.7651,-118.189,\N,"http://en.wikipedia.org/wiki/Long_Beach,_California"
+42,44,las_vegas,Las Vegas Street Circuit,Nevada,USA,36.1162,-115.17399999999999,\N,"http://en.wikipedia.org/wiki/Las_Vegas,_Nevada"
+43,45,jarama,Jarama,Madrid,Spain,40.6171,-3.58558,\N,http://en.wikipedia.org/wiki/Circuito_Permanente_Del_Jarama
+44,46,watkins_glen,Watkins Glen,New York State,USA,42.3369,-76.9272,\N,http://en.wikipedia.org/wiki/Watkins_Glen_International
+45,47,anderstorp,Scandinavian Raceway,Anderstorp,Sweden,57.2653,13.6042,\N,http://en.wikipedia.org/wiki/Scandinavian_Raceway
+46,48,mosport,Mosport International Raceway,Ontario,Canada,44.0481,-78.6756,\N,http://en.wikipedia.org/wiki/Mosport
+47,49,montjuic,Montjuïc,Barcelona,Spain,41.3664,2.15167,\N,http://en.wikipedia.org/wiki/Montju%C3%AFc_circuit
+48,50,nivelles,Nivelles-Baulers,Brussels,Belgium,50.6211,4.3269400000000005,\N,http://en.wikipedia.org/wiki/Nivelles-Baulers
+49,51,charade,Charade Circuit,Clermont-Ferrand,France,45.7472,3.0388900000000003,\N,http://en.wikipedia.org/wiki/Charade_Circuit
+50,52,tremblant,Circuit Mont-Tremblant,Quebec,Canada,46.1877,-74.6099,\N,http://en.wikipedia.org/wiki/Circuit_Mont-Tremblant
+51,53,essarts,Rouen-Les-Essarts,Rouen,France,49.3306,1.00458,\N,http://en.wikipedia.org/wiki/Rouen-Les-Essarts
+52,54,lemans,Le Mans,Le Mans,France,47.95,0.22423099999999999,\N,http://en.wikipedia.org/wiki/Circuit_de_la_Sarthe#Bugatti_Circuit
+53,55,reims,Reims-Gueux,Reims,France,49.2542,3.9308300000000003,\N,http://en.wikipedia.org/wiki/Reims-Gueux
+54,56,george,Prince George Circuit,Eastern Cape Province,South Africa,-33.0486,27.8736,\N,http://en.wikipedia.org/wiki/Prince_George_Circuit
+55,57,zeltweg,Zeltweg,Styria,Austria,47.2039,14.7478,\N,http://en.wikipedia.org/wiki/Zeltweg_Airfield
+56,58,aintree,Aintree,Liverpool,UK,53.4769,-2.94056,\N,http://en.wikipedia.org/wiki/Aintree_Motor_Racing_Circuit
+57,59,boavista,Circuito da Boavista,Oporto,Portugal,41.1705,-8.67325,\N,http://en.wikipedia.org/wiki/Circuito_da_Boavista
+58,60,riverside,Riverside International Raceway,California,USA,33.937,-117.273,\N,http://en.wikipedia.org/wiki/Riverside_International_Raceway
+59,61,avus,AVUS,Berlin,Germany,52.4806,13.2514,\N,http://en.wikipedia.org/wiki/AVUS
+60,62,monsanto,Monsanto Park Circuit,Lisbon,Portugal,38.7197,-9.20306,\N,http://en.wikipedia.org/wiki/Monsanto_Park_Circuit
+61,63,sebring,Sebring International Raceway,Florida,USA,27.4547,-81.3483,\N,http://en.wikipedia.org/wiki/Sebring_Raceway
+62,64,ain-diab,Ain Diab,Casablanca,Morocco,33.5786,-7.6875,\N,http://en.wikipedia.org/wiki/Ain-Diab_Circuit
+63,65,pescara,Pescara Circuit,Pescara,Italy,42.475,14.1508,\N,http://en.wikipedia.org/wiki/Pescara_Circuit
+64,66,bremgarten,Circuit Bremgarten,Bern,Switzerland,46.9589,7.40194,\N,http://en.wikipedia.org/wiki/Circuit_Bremgarten
+65,67,pedralbes,Circuit de Pedralbes,Barcelona,Spain,41.3903,2.11667,\N,http://en.wikipedia.org/wiki/Pedralbes_Circuit
+66,68,buddh,Buddh International Circuit,Uttar Pradesh,India,28.3487,77.5331,\N,http://en.wikipedia.org/wiki/Buddh_International_Circuit
+67,69,americas,Circuit of the Americas,Austin,USA,30.1328,-97.6411,\N,http://en.wikipedia.org/wiki/Circuit_of_the_Americas
+68,70,red_bull_ring,Red Bull Ring,Spielburg,Austria,47.2197,14.7647,\N,http://en.wikipedia.org/wiki/Red_Bull_Ring
+69,71,sochi,Sochi Autodrom,Sochi,Russia,43.4057,39.9578,\N,http://en.wikipedia.org/wiki/Sochi_Autodrom
+70,72,port_imperial,Port Imperial Street Circuit,New Jersey,USA,40.7769,-74.0111,\N,http://en.wikipedia.org/wiki/Port_Imperial_Street_Circuit
+71,73,BAK,Baku City Circuit,Baku,Azerbaijan,40.3725,49.8533,\N,http://en.wikipedia.org/wiki/Baku_City_Circuit
