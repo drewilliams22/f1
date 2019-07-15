@@ -75,6 +75,8 @@ for i in range(0,13):
     header_boi(csvs[i], headers_list[i])
 
 # Connect to MySQL DB
+### Assumes you already have a connection on local host, using user root, 
+### with password root, an a db schema named f1test
 conn = pymysql.connect(
     host = '127.0.0.1',
     port = 3306,
