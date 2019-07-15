@@ -6,3 +6,5 @@ rm f1db.sql
 wget http://ergast.com/downloads/f1db.sql.gz
 
 gunzip f1db.sql.gz
+
+mysql f1test < f1db.sql
